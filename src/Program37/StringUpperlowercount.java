@@ -8,7 +8,7 @@ public class StringUpperlowercount {
 		
 		int lower=0;
 		
-		for()
+	//	for()
 		
 
 	}
